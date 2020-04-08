@@ -1,5 +1,5 @@
 
-#  Unity Post Processing Stack Classic (PPSC) v1.x
+#  Unity Post Processing Stack Classic (PPSC) v1.x (Built-in Render Pipeline)
 
 ![GitHub Logo](https://docs.unity3d.com/2017.1/Documentation/uploads/Main/PostProcessing-Stack-0.png)
 
