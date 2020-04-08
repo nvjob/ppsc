@@ -10,7 +10,7 @@ I like this version of the Post-processing stack and I use it mainly in my proje
 -------------------------------------------------------------------
 
 ### Information
-The post-processing stack is an über effect that combines a complete set of effects into a single post-processing pipeline.<br>
+The post-processing stack is an uber effect that combines a complete set of effects into a single post-processing pipeline.<br>
 This has a few advantages:<br>
 - Effects are always configured in the correct order<br>
 - It allows a combination of many effects into a single pass<br>
