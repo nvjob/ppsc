@@ -7,6 +7,8 @@ This is the first version ("classic") of the Post-processing stack that was remo
 I introduced some changes that fix incompatibility with newer versions of Unity. I also reduced the size of the asset.<br>
 I like this version of the Post-processing stack and I use it mainly in my projects. Therefore, I will try to support this version, for compatibility with current versions of Unity.
 
+Download Package - [PPSC.unitypackage](https://github.com/nvjob/nvjob.github.io/raw/master/repo/unity%20assets/ppsc/asset/PPSC.unitypackage)
+
 -------------------------------------------------------------------
 
 ### Information
