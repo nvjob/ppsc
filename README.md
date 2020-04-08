@@ -26,4 +26,4 @@ The post-processing stack also includes a collection of monitors and debug views
 
 -------------------------------------------------------------------
 
-**Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
+**Support:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem/)
