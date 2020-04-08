@@ -4,7 +4,8 @@
 ![GitHub Logo](https://docs.unity3d.com/2017.1/Documentation/uploads/Main/PostProcessing-Stack-0.png)
 
 This is the first version ("classic") of the Post-processing stack that was removed from the Unity Asset Store due to incompatibility with newer Unity versions.<br>
-I introduced some changes that fix incompatibility with newer versions of Unity. I also reduced the size of the asset.
+I introduced some changes that fix incompatibility with newer versions of Unity. I also reduced the size of the asset.<br>
+I like this version of the Post-processing stack and I use it mainly in my projects. Therefore, I will try to support this version, for compatibility with current versions of Unity.
 
 -------------------------------------------------------------------
 
