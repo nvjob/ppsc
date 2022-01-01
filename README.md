@@ -23,9 +23,5 @@ The post-processing stack also includes a collection of monitors and debug views
 
 -------------------------------------------------------------------
 
-**Patrons:** [nvjob.github.io/patrons](https://nvjob.github.io/patrons)<br>
-*You can become one of the patrons, or make a sponsorship donation.*
-
--------------------------------------------------------------------
-
-**Support:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem/)
+**Sorry:** <br>
+This project is currently frozen and cannot be supported or updated due to its complete non-profitability.
