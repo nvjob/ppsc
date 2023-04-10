@@ -23,5 +23,5 @@ The post-processing stack also includes a collection of monitors and debug views
 
 -------------------------------------------------------------------
 
-**Sorry:** <br>
-This project is currently frozen and cannot be supported or updated due to its complete non-profitability.
+**🖤 Donate:** <br>
+[paypal.me/nvjob](https://paypal.me/nvjob)
